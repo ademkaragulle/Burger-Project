@@ -1,6 +1,6 @@
 # Burger Project
 
-![Burger Project image]([https://github.com/ademkaragulle/Burger-Project/blob/main/public/download.png)
+![Burger Project image](https://github.com/ademkaragulle/Burger-Project/blob/main/public/download.png)
 
 This simple Project create with React.js. I took help Material UI and React Router DOM 
 
